@@ -38,7 +38,7 @@ A modern, responsive personal portfolio website built to showcase my Full Stack 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/sureshnaik45/portfolio.git](https://github.com/sureshnaik45/portfolio.git)
+    git clone https://github.com/sureshnaik45/Portfolio.git
     cd portfolio
     ```
 
